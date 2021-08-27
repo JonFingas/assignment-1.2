@@ -1,0 +1,7 @@
+Jon Rodriguez
+
+The empty directory was not uploaded
+
+There are 2 copies of questions.txt, and the new directory is present now, likely because an empty directory
+cannot me pushed by itself as well as the 2 copies of questions .txt being present because the online 
+repository has not registered the local deletion.
